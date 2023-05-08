@@ -1,2 +1,2 @@
-# Lesson17
-Beetroot Homework. Lesson 17 - Git
+# Lesson16
+Beetroot Homework. Lesson 16 - Git
